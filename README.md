@@ -17,3 +17,6 @@ https://windows.php.net/download#php-5.6
 
 https://www.xpdfreader.com/pdftotext-man.html
 
+
+Make sure all the CLI tools are in your path environment.
+php5.exe, php5.dll are the only things needed from the php package.
