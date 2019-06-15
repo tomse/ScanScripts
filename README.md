@@ -9,13 +9,13 @@ The versions have been testet, newer versions aren't tested
 
 https://www.irfanview.com/
 
-https://www.imagemagick.org/script/download.php#windows
+https://imagemagick.org/download/windows/ (grab the latest of version 6)
 
 https://www.pdflabs.com/tools/pdftk-server/
 
 https://windows.php.net/download#php-5.6
 
-https://www.xpdfreader.com/pdftotext-man.html
+https://www.xpdfreader.com/pdftotext-man.html (Xpdf command line tools)
 
 
 Make sure all the CLI tools are in your path environment.
