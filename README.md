@@ -19,4 +19,8 @@ https://www.xpdfreader.com/pdftotext-man.html (Xpdf command line tools)
 
 
 Make sure all the CLI tools are in your path environment.
+
 php5.exe, php5.dll are the only things needed from the php package.
+
+
+You may need to edit the files to fit your installation accordingly, i.e. path to irfanview etc.
